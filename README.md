@@ -1,7 +1,6 @@
 ### Hi, I am Adi 👋
 <img align='right' src='https://raw.githubusercontent.com/ijlik/ijlik/master/octocat-walk.gif' width='200"'>
 
-- 🔭 I’m currently working on HLBIT Exchange
-- 🌱 I’m currently learning Cryptocurrency
-- 📫 How to reach me: visit my profile page https://ijlik.me
+- 🔭 I’m currently working on Blacklion Research
+- 🌱 I’m currently learning on Blockchain, Cryptocurrency, and Quantitative Trading
 - Finalis Cyber Jawara 2020
